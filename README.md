@@ -1,2 +1,2 @@
 # jenkins-python
-to automate python cicd with jenkins
+to automate python cicd with gitlab-cicd
